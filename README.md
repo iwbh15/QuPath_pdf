@@ -4,6 +4,9 @@ This contains a pdf version of the QuPath's documentation, hosted at https://qup
 
 The pdf was build with Sphinx and xelatex. see https://github.com/qupath/qupath-docs/tree/main#building-locally
 
+The pdf is packed into a set of zip files.
+Download all qupath.zip.00x files and open qupath.zip.001 to unpack the pdf.
+
 ## License
 
 Shared under a Creative Commons license ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
